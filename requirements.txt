@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+geoalchemy2
+pydantic-settings
+pyjwt
+python-socketio
+redis
+celery
+razorpay
+googlemaps
+weasyprint
+pytest
+httpx
